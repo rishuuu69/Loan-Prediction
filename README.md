@@ -1,5 +1,5 @@
 # Loan-Prediction-Classification
-A Classification Problem which predicts if a loan will get approved or not.
+Imagine you're applying for a loan at a bank or online lender. The loan approval classification problem is like having a virtual assistant or algorithm that helps the lender decide whether to approve your loan application. It looks at different aspects of your financial situation, like your credit score, income, job stability, and the amount you're asking to borrow. By analyzing these factors, the system aims to predict whether your loan request will likely be approved or denied. Essentially, it's like having a digital guide that helps lenders make fair and informed decisions about who gets approved for loans.
 
 Dataset-  The data has 615 rows and 13 columns.
 
